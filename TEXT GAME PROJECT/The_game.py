@@ -1,7 +1,7 @@
 #   The_game
 
 
-from The_game_mechanics import The_game
+from the_game_mechanics import The_game
 from useful_functions import *
 
 game = The_game('The_game')
