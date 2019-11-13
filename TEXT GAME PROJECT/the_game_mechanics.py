@@ -1,4 +1,4 @@
-#sao_game_class
+#the_game_mechanics
 
 from useful_functions import *
 from startup import base_game_mechanics
